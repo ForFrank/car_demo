@@ -1,0 +1,60 @@
+{
+    "status": 100,
+    "data": [
+      {
+        "id": 1,
+        "deviceName": "设备001",
+        "deviceCode": "001",
+        "creatTime": 1539705600000
+      },
+      {
+        "id": 2,
+        "deviceName": "设备002",
+        "deviceCode": "002",
+        "creatTime": 1539705600000
+      },
+      {
+        "id": 3,
+        "deviceName": "设备003",
+        "deviceCode": "003",
+        "creatTime": 1539705600000
+      },
+      {
+        "id": 4,
+        "deviceName": "设备004",
+        "deviceCode": "004",
+        "creatTime": 1539705600000
+      },
+      {
+        "id": 5,
+        "deviceName": "设备005",
+        "deviceCode": "005",
+        "creatTime": 1539705600000
+      },
+      {
+        "id": 6,
+        "deviceName": "设备006",
+        "deviceCode": "006",
+        "creatTime": 1539705600000
+      },
+      {
+        "id": 7,
+        "deviceName": "设备007",
+        "deviceCode": "007",
+        "creatTime": 1539705600000
+      },
+      {
+        "id": 8,
+        "deviceName": "设备008",
+        "deviceCode": "008",
+        "creatTime": 1539705600000
+      },
+      {
+        "id": 9,
+        "deviceName": "设备009",
+        "deviceCode": "009",
+        "creatTime": 1539705600000
+      }
+    ]
+  }
+  
